@@ -1,4 +1,4 @@
 Android_BMI
 ===========
 
-An BMI calculator for Android
+A BMI calculator for Android
